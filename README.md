@@ -1,4 +1,4 @@
-# Front-end-learners
+# Front-end Learners
 
 Eğitimin amacı: Yeni nesil web developer yetiştirmek.
 
